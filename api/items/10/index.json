@@ -2,8 +2,8 @@
   "id": 10,
   "name": "PewDiePie",
   "description": "Swedish YouTuber and comedian, known primarily for his Let's Play videos and comedy formatted shows.",
-  "image": "/api/items/10/big.png",
-  "external_url": "/api/items/10",
+  "image": "/items/10/big.png",
+  "external_url": "/items/10",
   "burning_fee": 30,
   "attributes": [
     {

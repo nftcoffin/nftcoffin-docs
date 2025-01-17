@@ -2,8 +2,8 @@
   "id": 14,
   "name": "Donald Trump",
   "description": "American media personality and businessman who served as the 45th president of the United States from 2017 to 2021.",
-  "image": "/api/items/14/big.png",
-  "external_url": "/api/items/14",
+  "image": "/items/14/big.png",
+  "external_url": "/items/14",
   "burning_fee": 50,
   "attributes": [
     {

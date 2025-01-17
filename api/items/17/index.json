@@ -2,8 +2,8 @@
   "id": 17,
   "name": "Diana, Princess of Wales",
   "description": "Was a member of the British royal family. She was the first wife of Charles, Prince of Wales—the heir apparent to the British throne—and mother of Prince William and Prince Harry. Diana's activism and glamour made her an international icon and earned her enduring popularity as well as unprecedented public scrutiny, exacerbated by her tumultuous private life.",
-  "image": "/api/items/17/big.png",
-  "external_url": "/api/items/17",
+  "image": "/items/17/big.png",
+  "external_url": "/items/17",
   "burning_fee": 30,
   "attributes": [
     {

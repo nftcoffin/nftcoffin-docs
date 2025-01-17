@@ -2,8 +2,8 @@
   "id": 12,
   "name": "Vitalik Buterin",
   "description": "Russian-Canadian programmer and writer who is best known as one of the co-founders of Ethereum. Buterin became involved with cryptocurrency early in its inception, co-founding Bitcoin Magazine in 2011.In 2014, Buterin launched Ethereum with Gavin Wood.",
-  "image": "/api/items/12/12.png",
-  "external_url": "/api/items/12",
+  "image": "/items/12/12.png",
+  "external_url": "/items/12",
   "burning_fee": 50,
   "attributes": [
     {

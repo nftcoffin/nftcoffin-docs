@@ -2,8 +2,8 @@
   "id": 16,
   "name": "Richard Sanchez",
   "description": "Also known as Rick or Rick C-137, is the titular main protagonist and one of the five main characters of Rick and Morty. He is a megagenius scientist whose alcoholism and reckless, nihilistic behavior are a source of concern for his daughter's family, as well as the safety of their son, Morty. He is voiced by Justin Roiland.",
-  "image": "/api/items/16/big.png",
-  "external_url": "/api/items/16",
+  "image": "/items/16/big.png",
+  "external_url": "/items/16",
   "burning_fee": 50,
   "attributes": [
     {

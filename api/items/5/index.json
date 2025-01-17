@@ -2,8 +2,8 @@
   "id": 5,
   "name": "Conor McGregor",
   "description": "Irish professional mixed martial artist and professional boxer. He is a former Ultimate Fighting Championship (UFC) featherweight and lightweight double-champion. As of 25 January 2021, he is #6 in the UFC lightweight rankings, and as of March 23, 2021, he is #15 in the UFC men's pound-for-pound rankings.",
-  "image": "/api/items/5/big.png",
-  "external_url": "/api/items/5",
+  "image": "/items/5/big.png",
+  "external_url": "/items/5",
   "burning_fee": 50,
   "attributes": [
     {
